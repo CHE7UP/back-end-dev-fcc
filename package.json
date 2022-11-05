@@ -1,5 +1,6 @@
 {
   "name": "back-end-dev-fcc",
+  "author": "Alexei Bucos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
