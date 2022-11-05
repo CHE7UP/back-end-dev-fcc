@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/back-end-dev-fcc/static/css/main.1a98fe0a.css",
+    "main.js": "/back-end-dev-fcc/static/js/main.80186240.js",
+    "static/js/787.1c175b45.chunk.js": "/back-end-dev-fcc/static/js/787.1c175b45.chunk.js",
+    "index.html": "/back-end-dev-fcc/index.html",
+    "main.1a98fe0a.css.map": "/back-end-dev-fcc/static/css/main.1a98fe0a.css.map",
+    "main.80186240.js.map": "/back-end-dev-fcc/static/js/main.80186240.js.map",
+    "787.1c175b45.chunk.js.map": "/back-end-dev-fcc/static/js/787.1c175b45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a98fe0a.css",
+    "static/js/main.80186240.js"
+  ]
+}
